@@ -1,11 +1,11 @@
-About r-colorblindness
-======================
+About r-colorblindness-feedstock
+================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-colorblindness-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=colorBlindness
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-colorblindness-feedstock/blob/main/LICENSE.txt)
 
 Summary: Provide the safe color set for color blindness, the simulator of protanopia, deuteranopia. The color sets are collected from: Wong, B. (2011) <doi:10.1038/nmeth.1618>, and <http://mkweb.bcgsc.ca/biovis2012/>. The simulations of the appearance of the colors to color-deficient viewers were based on algorithms in Vienot, F., Brettel, H. and Mollon, J.D. (1999) <doi:10.1002/(SICI)1520-6378(199908)24:4%3C243::AID-COL5%3E3.0.CO;2-3>. The cvdPlot() function to generate 'ggplot' grobs of simulations were modified from <https://github.com/clauswilke/colorblindr>.
 
